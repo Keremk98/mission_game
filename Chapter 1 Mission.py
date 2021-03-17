@@ -1,6 +1,6 @@
 #Kerem Kok
 #Chapter1
-prompt = "Please enter user name. Enter X to exit"
+prompt = "Please enter user name. Enter X to start"
 userInput = ""
 while userInput != "X":
         userInput = str(input(prompt))
