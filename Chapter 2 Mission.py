@@ -5,7 +5,7 @@ answer = 'x' or 'c'
 x = 'bus'
 c = 'cab'
 
-if answer == x
+if answer == x:
         print("Welcome to the bus")
 
 	
